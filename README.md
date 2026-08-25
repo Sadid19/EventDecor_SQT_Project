@@ -158,12 +158,26 @@ The system is considered ready when:
 
 ## Industry Review
 
-* **Reviewer:** Shokhin Mazumder
-* **Designation:** Lead SQA Engineer
-* **Organization:** Mir Info Systems Limited
-
-* **Course Teacher:**
-* **Dr. Abhijit Bhowmik**
-* **Associate Professor**
-* **Department of Computer Science**
+| Information      | Details                  |
+| ---------------- | ------------------------ |
+| **Reviewer**     | Shokhin Mazumder         |
+| **Designation**  | Lead SQA Engineer        |
+| **Organization** | Mir Info Systems Limited |
+nt of Computer Science**
 * **American International University-Bangladesh**
+
+  
+## Course Information
+
+| Information        | Details                                                                            |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| **Course**         | Software Quality and Testing                                                       |
+| **Course Teacher** | [Dr. Abhijit Bhowmik](https://www.aiub.edu/faculty-list/faculty-profile?q=abhijit) |
+| **Designation**    | Associate Professor                                                                |
+| **Department**     | Department of Computer Science                                                     |
+| **Faculty**        | Faculty of Science and Technology                                                  |
+| **Institution**    | American International University-Bangladesh                                       |
+| **Semester**       | Spring 2025-2026                                                                   |
+| **Section**        | B                                                                                  |
+
+
