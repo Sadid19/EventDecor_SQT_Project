@@ -143,14 +143,6 @@ The system is considered ready when:
 * Risk analysis: **Completed**
 * Test-execution documentation: **In Progress**
 
-## Academic Information
-
-* **Course:** Software Quality and Testing
-* **Institution:** American International University-Bangladesh
-* **Department:** Department of Computer Science
-* **Semester:** Spring 2025-2026
-* **Section:** B
-
 ## Contributors
 
 * **Md. Ibtihazzaman** - 22-49153-3
@@ -163,8 +155,6 @@ The system is considered ready when:
 | **Reviewer**     | Shokhin Mazumder         |
 | **Designation**  | Lead SQA Engineer        |
 | **Organization** | Mir Info Systems Limited |
-nt of Computer Science**
-* **American International University-Bangladesh**
 
   
 ## Course Information
